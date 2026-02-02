@@ -295,8 +295,16 @@ If you just want to see the results, open `05_scoring_ensemble.ipynb` directly -
 [gerardo.gandara
 ](https://www.linkedin.com/in/gerardo-gandara/)
 
+<<<<<<< HEAD
 - Expertise: Marketing Mix Modeling, A/B Testing, NLP, Predictive Analytics
 - Tools: Python, SQL, PyMC, Robyn, Databricks
+=======
+📧 gerardo.gandara@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/gerardo-gandara/)  
+🐙 [GitHub](https://github.com/ggandara13)
+
+Expertise: Marketing Mix Modeling, A/B Testing, NLP, Predictive Analytics
+>>>>>>> c4d6c33 (Update author contact info)
 
 ---
 
