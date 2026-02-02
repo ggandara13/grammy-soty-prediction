@@ -1,0 +1,39 @@
+======================================================================
+       GRAMMY SONG OF THE YEAR 2026 - PREDICTION REPORT (v2.0)
+======================================================================
+
+PREDICTED WINNER: WILDFLOWER
+WIN PROBABILITY:  23.0%
+CONFIDENCE LEVEL: Medium
+
+----------------------------------------------------------------------
+FULL RANKINGS:
+----------------------------------------------------------------------
+  1. WILDFLOWER                 23.0%  (Billie Eilish)
+  2. luther                     16.3%  (Kendrick Lamar & SZA)
+  3. Die With a Smile           13.2%  (Lady Gaga & Bruno Mars)
+  4. APT.                       12.7%  (ROSÉ & Bruno Mars)
+  5. A Bar Song (Tipsy)          9.7%  (Shaboozey)
+  6. Manchild                    9.0%  (RAYE feat. Chaka Khan)
+  7. Abracadabra                 8.4%  (Lady Gaga)
+  8. Anxiety                     7.7%  (Megan Thee Stallion & RAYE)
+
+----------------------------------------------------------------------
+MODEL NOTES (v2.0):
+----------------------------------------------------------------------
+• Historical winner similarity weighted at 30%
+• Prior SOTY wins by artist provide bonus:
+    - Billie Eilish: 2 wins (2020, 2021)
+    - Kendrick Lamar: 1 win (2025)
+    - Bruno Mars: 1 win (2018)
+• Narrative depth weighted at 18%
+
+KEY INSIGHT: WILDFLOWER follows Billie Eilish's proven SOTY-winning
+formula: low energy, high acousticness, strong narrative depth.
+
+----------------------------------------------------------------------
+DISCLAIMER:
+----------------------------------------------------------------------
+This prediction models likelihood based on available data.
+Grammy voting is inherently subjective and results may differ.
+======================================================================
