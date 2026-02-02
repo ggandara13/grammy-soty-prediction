@@ -1,0 +1,71 @@
+{
+  "year": 2026,
+  "category": "Song of the Year",
+  "description": "Honors the songwriter(s) - a songwriter's award for composition",
+  "actual_winner": "WILDFLOWER",
+  "nominees": [
+    {
+      "song": "WILDFLOWER",
+      "artist": "Billie Eilish",
+      "songwriters": ["Billie Eilish O'Connell", "Finneas O'Connell"],
+      "album": "HIT ME HARD AND SOFT",
+      "genre": "Alternative/Pop"
+    },
+    {
+      "song": "luther",
+      "artist": "Kendrick Lamar & SZA",
+      "songwriters": ["Jack Antonoff", "Roshwita Larisha Bacha", "Matthew Bernard", "Scott Bridgeway", "Sam Dew", "Ink", "Kendrick Lamar", "Solána Rowe", "Mark Anthony Spears", "Kamasi Washington"],
+      "album": "GNX",
+      "genre": "Hip-Hop/R&B"
+    },
+    {
+      "song": "APT.",
+      "artist": "ROSÉ & Bruno Mars",
+      "songwriters": ["Amy Allen", "Christopher Brody Brown", "Rogét Chahayed", "Omer Fedi", "Philip Lawrence", "Bruno Mars", "Chae Young Park", "Theron Thomas", "Henry Walter"],
+      "album": "rosie",
+      "genre": "Pop"
+    },
+    {
+      "song": "Manchild",
+      "artist": "Sabrina Carpenter",
+      "songwriters": ["Amy Allen", "Jack Antonoff", "Sabrina Carpenter"],
+      "album": "Short n' Sweet",
+      "genre": "Pop"
+    },
+    {
+      "song": "Golden",
+      "artist": "HUNTR/X (Ejae, Audrey Nuna, Rei Ami)",
+      "songwriters": ["Ejae", "Mark Sonnenblick"],
+      "album": "KPop Demon Hunters Soundtrack",
+      "genre": "K-Pop/Alternative"
+    },
+    {
+      "song": "Abracadabra",
+      "artist": "Lady Gaga",
+      "songwriters": ["Lady Gaga", "Henry Walter", "Andrew Watt"],
+      "album": "Mayhem",
+      "genre": "Pop/Dance"
+    },
+    {
+      "song": "DtMF",
+      "artist": "Bad Bunny",
+      "songwriters": ["Marco Daniel Borrero", "Scott Dittrich", "Benjamin Falik", "Benito Antonio Martínez Ocasio", "Hugo René Sención Sanabria", "Tyler Thomas Spry", "Roberto José Rosado Torres"],
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "genre": "Reggaeton/Latin"
+    },
+    {
+      "song": "Anxiety",
+      "artist": "Doechii",
+      "songwriters": ["Jaylah Hickmon"],
+      "album": "Alligator Bites Never Heal",
+      "genre": "Hip-Hop"
+    }
+  ],
+  "prediction": {
+    "model_version": "2.0 (Songwriting-focused)",
+    "predicted_winner": "WILDFLOWER",
+    "win_probability": 0.230,
+    "confidence": "Medium",
+    "correct": true
+  }
+}

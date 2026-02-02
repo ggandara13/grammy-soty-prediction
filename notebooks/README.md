@@ -2,35 +2,29 @@
 
 Run these notebooks in order to reproduce the prediction pipeline.
 
-## Pipeline Order
+## Pipeline
 
-| # | Notebook | Description | Key Outputs |
-|---|----------|-------------|-------------|
-| 1 | `01_data_collection.ipynb` | Gather Billboard charts, lyrics from Genius, streaming data | `nominees_2026.json`, lyrics files |
-| 2 | `02_lyrics_nlp.ipynb` | TF-IDF analysis, vocabulary metrics, narrative depth scoring | Lyric originality scores |
-| 3 | `03_topic_modeling.ipynb` | LDA topic modeling, thematic analysis | Topic distributions, visualizations |
-| 4 | `04_audio_analysis.ipynb` | Audio features (BPM, energy, valence), Grammy pedigree analysis | Audio scores, Grammy bias scores |
-| 5 | `historical_winner_analysis.py` | Compare nominees to past SOTY winners (2016-2025) | `historical_winner_analysis.json` |
-| 6 | `05_scoring_ensemble.ipynb` | Combine all features, calculate win probabilities | **Final prediction!** |
+| # | Notebook | Description |
+|---|----------|-------------|
+| 1 | `01_data_collection.ipynb` | Gather audio features, charts, Grammy context |
+| 2 | `02_lyrics_nlp.ipynb` | TF-IDF analysis, vocabulary metrics |
+| 3 | `03_topic_modeling.ipynb` | LDA topic modeling, thematic analysis |
+| 4 | `04_media_sentiment.ipynb` | Media coverage, Grammy pedigree |
+| 5 | `05_scoring_ensemble.ipynb` | **Both models: ROTY v1.0 + SOTY v2.0** |
+
+## Key Notebook: 05_scoring_ensemble.ipynb
+
+This notebook demonstrates the core insight of the project:
+
+- **Model v1.0** → Predicts **Record of the Year** (luther ✅)
+- **Model v2.0** → Predicts **Song of the Year** (WILDFLOWER ✅)
+
+Different weights for different categories!
 
 ## Quick Start
 
-If you just want to see the final prediction without running the full pipeline:
-
 ```bash
-# Open directly - all scores are embedded
 jupyter notebook 05_scoring_ensemble.ipynb
 ```
 
-## Dependencies
-
-All notebooks require:
-```bash
-pip install -r ../requirements.txt
-```
-
-## Notes
-
-- Notebooks 01-04 require API access (Genius, Billboard)
-- Notebook 05 can run standalone with embedded scores
-- Clear outputs before committing to GitHub (smaller file sizes)
+All scores are embedded - runs standalone without dependencies.

@@ -1,0 +1,75 @@
+{
+  "category": "Record of the Year",
+  "predicted_winner": "luther",
+  "prediction_confidence": "Medium",
+  "model_version": "1.0 (Production-focused)",
+  "actual_winner": "luther",
+  "prediction_correct": true,
+  "rankings": [
+    {
+      "rank": 1,
+      "song": "luther",
+      "artist": "Kendrick Lamar & SZA",
+      "win_probability": 18.2,
+      "final_score": 0.7845
+    },
+    {
+      "rank": 2,
+      "song": "APT.",
+      "artist": "ROSÉ & Bruno Mars",
+      "win_probability": 15.4,
+      "final_score": 0.7312
+    },
+    {
+      "rank": 3,
+      "song": "Abracadabra",
+      "artist": "Lady Gaga",
+      "win_probability": 14.1,
+      "final_score": 0.6989
+    },
+    {
+      "rank": 4,
+      "song": "WILDFLOWER",
+      "artist": "Billie Eilish",
+      "win_probability": 13.3,
+      "final_score": 0.6754
+    },
+    {
+      "rank": 5,
+      "song": "Manchild",
+      "artist": "Sabrina Carpenter",
+      "win_probability": 11.5,
+      "final_score": 0.6321
+    },
+    {
+      "rank": 6,
+      "song": "The Subway",
+      "artist": "Chappell Roan",
+      "win_probability": 10.2,
+      "final_score": 0.5987
+    },
+    {
+      "rank": 7,
+      "song": "DtMF",
+      "artist": "Bad Bunny",
+      "win_probability": 9.1,
+      "final_score": 0.5654
+    },
+    {
+      "rank": 8,
+      "song": "Anxiety",
+      "artist": "Doechii",
+      "win_probability": 8.2,
+      "final_score": 0.5321
+    }
+  ],
+  "weights_used": {
+    "cultural_impact": 0.25,
+    "media_momentum": 0.20,
+    "grammy_pedigree": 0.18,
+    "audio_production": 0.15,
+    "musical_structure": 0.12,
+    "lyric_originality": 0.10
+  },
+  "key_insight": "Model v1.0 prioritizes production quality, chart performance, and media buzz - the factors that determine Record of the Year winners."
+}

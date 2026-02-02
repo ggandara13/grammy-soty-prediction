@@ -1,0 +1,77 @@
+{
+  "category": "Song of the Year",
+  "predicted_winner": "WILDFLOWER",
+  "prediction_confidence": "Medium",
+  "model_version": "2.0 (Songwriting-focused)",
+  "actual_winner": "WILDFLOWER",
+  "prediction_correct": true,
+  "rankings": [
+    {
+      "rank": 1,
+      "song": "WILDFLOWER",
+      "artist": "Billie Eilish",
+      "songwriters": ["Billie Eilish O'Connell", "Finneas O'Connell"],
+      "win_probability": 23.0,
+      "final_score": 0.8138
+    },
+    {
+      "rank": 2,
+      "song": "luther",
+      "artist": "Kendrick Lamar & SZA",
+      "win_probability": 16.3,
+      "final_score": 0.7105
+    },
+    {
+      "rank": 3,
+      "song": "APT.",
+      "artist": "ROSÉ & Bruno Mars",
+      "win_probability": 12.7,
+      "final_score": 0.6354
+    },
+    {
+      "rank": 4,
+      "song": "Manchild",
+      "artist": "Sabrina Carpenter",
+      "win_probability": 11.0,
+      "final_score": 0.6012
+    },
+    {
+      "rank": 5,
+      "song": "Golden",
+      "artist": "HUNTR/X",
+      "win_probability": 9.8,
+      "final_score": 0.5654
+    },
+    {
+      "rank": 6,
+      "song": "Abracadabra",
+      "artist": "Lady Gaga",
+      "win_probability": 9.4,
+      "final_score": 0.5489
+    },
+    {
+      "rank": 7,
+      "song": "DtMF",
+      "artist": "Bad Bunny",
+      "win_probability": 9.1,
+      "final_score": 0.5321
+    },
+    {
+      "rank": 8,
+      "song": "Anxiety",
+      "artist": "Doechii",
+      "win_probability": 8.7,
+      "final_score": 0.5156
+    }
+  ],
+  "weights_used": {
+    "historical_winner": 0.30,
+    "narrative_depth": 0.18,
+    "cultural_impact": 0.15,
+    "grammy_pedigree": 0.12,
+    "lyric_originality": 0.10,
+    "media_momentum": 0.08,
+    "musical_structure": 0.07
+  },
+  "key_insight": "WILDFLOWER follows Billie Eilish's proven SOTY-winning formula: low energy, high acousticness, strong narrative depth. She has won SOTY twice before with similar audio profiles."
+}

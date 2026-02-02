@@ -1,0 +1,71 @@
+{
+  "year": 2026,
+  "category": "Record of the Year",
+  "description": "Honors the performer(s), producer(s), recording engineer(s), and mixer(s)",
+  "actual_winner": "luther",
+  "nominees": [
+    {
+      "song": "luther",
+      "artist": "Kendrick Lamar & SZA",
+      "album": "GNX",
+      "producer": ["Sounwave", "DJ Dahi"],
+      "genre": "Hip-Hop/R&B"
+    },
+    {
+      "song": "APT.",
+      "artist": "ROSÉ & Bruno Mars",
+      "album": "rosie",
+      "producer": ["Bruno Mars", "D'Mile"],
+      "genre": "Pop"
+    },
+    {
+      "song": "WILDFLOWER",
+      "artist": "Billie Eilish",
+      "album": "HIT ME HARD AND SOFT",
+      "producer": ["FINNEAS"],
+      "genre": "Alternative/Pop"
+    },
+    {
+      "song": "Abracadabra",
+      "artist": "Lady Gaga",
+      "album": "Mayhem",
+      "producer": ["Andrew Watt", "Cirkut"],
+      "genre": "Pop/Dance"
+    },
+    {
+      "song": "Manchild",
+      "artist": "Sabrina Carpenter",
+      "album": "Short n' Sweet",
+      "producer": ["Jack Antonoff"],
+      "genre": "Pop"
+    },
+    {
+      "song": "Anxiety",
+      "artist": "Doechii",
+      "album": "Alligator Bites Never Heal",
+      "producer": ["Tasha Catour"],
+      "genre": "Hip-Hop"
+    },
+    {
+      "song": "The Subway",
+      "artist": "Chappell Roan",
+      "album": "The Rise and Fall of a Midwest Princess",
+      "producer": ["Dan Nigro"],
+      "genre": "Pop"
+    },
+    {
+      "song": "DtMF",
+      "artist": "Bad Bunny",
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "producer": ["MAG", "La Paciencia"],
+      "genre": "Reggaeton/Latin"
+    }
+  ],
+  "prediction": {
+    "model_version": "1.0 (Production-focused)",
+    "predicted_winner": "luther",
+    "win_probability": 0.182,
+    "confidence": "Medium",
+    "correct": true
+  }
+}
