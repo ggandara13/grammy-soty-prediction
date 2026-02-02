@@ -291,7 +291,9 @@ If you just want to see the results, open `05_scoring_ensemble.ipynb` directly -
 
 ## Author
 
-**Gerardo** - Senior Data Scientist
+**Gerardo Gandara** - Senior Data Scientist
+[gerardo.gandara
+](https://www.linkedin.com/in/gerardo-gandara/)
 
 - Expertise: Marketing Mix Modeling, A/B Testing, NLP, Predictive Analytics
 - Tools: Python, SQL, PyMC, Robyn, Databricks
